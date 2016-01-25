@@ -5,6 +5,10 @@ A touchable jQuery lightbox.
 
 [View project page](http://brutaldesign.github.com/swipebox)
 
+## Fork Notes (`title-addsclass` branch)
+
+This fork changes the `title` attribute (if provided) from being used as a caption to adding of the title value as a class to the `.current` slide.
+
 ##What is Swipebox ?
 
 Swipebox is a jQuery "lightbox" plugin for desktop, mobile and tablet.
